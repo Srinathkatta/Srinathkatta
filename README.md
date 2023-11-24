@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **Srinathkatta04@gmail.com**
 
+- Know about my experiences [Resume](https://docs.google.com/document/d/1XdEqi2VX-m7mdzIBjmOuIvSQWOj_oYwC/edit?usp=drive_link&ouid=112959868679203816024&rtpof=true&sd=true)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +25,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+## Stats summary📈
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=srinathkatta&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="srinathkatta" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinathkatta&theme=highcontrast&hide_border=true" alt="srinathkatta" />
+</p>
 
